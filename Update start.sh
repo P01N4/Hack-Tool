@@ -1,17 +1,15 @@
 #!/bin/bash
-#Code:YamanEfkar
-#İnstagram: @yamanefkarr
-#Youtube : Yamanefkar
+#Code: P01N4
+#İnstagram: @Huzurluu_videolar
 echo -e '\033[31;40;1m 
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
 		   ────█▌▀▄──▄▄──▄▀▐█────
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
-      \e[35m      ☠         Code  : YamanEfkar     ☠
-	  \e[34m☠	     Github : YamanEfkar       ☠
-	 \e[33m☠  	    Youtube : YamanEfkar        ☠
-	\e[32m☠ 	   İnstagram : @yamanefkarr      ☠
+      \e[35m      ☠         Code  : P01N4    ☠
+	  \e[34m☠	     Github : P01N4   ☠
+	\e[32m☠ 	   İnstagram : @Huzurluu_videolar     ☠
 	
 	\e[36m 	 ☾★ ☾★ Türk Siber Timi ☾★ ☾★	
 \e[32m[1]\e[33mTermux Güncelle		\e[32m[12]\e[33mFindUser 
